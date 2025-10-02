@@ -10,7 +10,14 @@ Sou um Desenvolvedor Full Stack com 3 anos de experiência em análise, desenvol
         <img 
             alt="linkedin profile" 
             title="Me encontre no linkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/Meu LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a target="_blank" href="https://fossvncs.github.io/portfolio">
+        <img 
+            alt="portfolio web" 
+            title="Visite meu portfólio web" 
+            src="https://img.shields.io/badge/Portfolio Web-255E63?style=for-the-badge"
         />
     </a>
     
@@ -141,20 +148,18 @@ Sou um Desenvolvedor Full Stack com 3 anos de experiência em análise, desenvol
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
 />
-
-
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fossvncs&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -165,3 +170,4 @@ Sou um Desenvolvedor Full Stack com 3 anos de experiência em análise, desenvol
   />
 
 </p>
+
