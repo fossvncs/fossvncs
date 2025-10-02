@@ -20,6 +20,13 @@ Sou um Desenvolvedor Full Stack com 3 anos de experiência em análise, desenvol
             src="https://img.shields.io/badge/Portfolio Web-255E63?style=for-the-badge"
         />
     </a>
+    <a target="_blank" href="https://www.duolingo.com/profile/ViniciusFosz">
+        <img 
+            alt="duolingo profile" 
+            title="Meu perfil no Duolingo" 
+            src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"
+        />
+    </a>
     
 </p>
 
